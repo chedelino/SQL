@@ -13,11 +13,3 @@ Welcome to my **SQL Projects** repository! This collection features a variety of
 ### 3. **When Was the Golden Age of Video Games?**
    - Investigating the history of video games and determining when the "golden age" occurred based on sales and popularity data.
 
-## 🛠️ Getting Started:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/chedelino/sql.git
-
-
-   ⭐️ Happy Querying!
